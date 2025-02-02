@@ -6,8 +6,8 @@ Este proyecto es una API RESTful desarrollada con **Node.js y Express** para ges
 ## 🚀 Instalación y Configuración
 ### 1️⃣ **Clonar el repositorio**
 ```sh
- git clone <https://github.com/JonatanUribio7749/Proyecto_Backend_Jonatan_Uribio.git>
- cd Proyecto_Backend_Jonatan_Uribio
+ git clone <https://github.com/Marisol14/Proyecto_Backend_1_Marisol_Alcaraz>
+ cd Proyecto_Backend_1_Marisol_Alcaraz
 ```
 ### 2️⃣ **Instalar dependencias**
 ```sh
