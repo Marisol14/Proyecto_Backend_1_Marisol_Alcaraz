@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1738159552808",
+    "title": "Mouse Gamer",
+    "description": "Mouse RGB de alta precisión",
+    "code": "MOUSE123",
+    "price": 50,
+    "stock": 20,
+    "category": "Tecnología",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": "1738534771196",
+    "title": "Monitor Gamer 27''",
+    "description": "Monitor LED Full HD con 144Hz",
+    "code": "MONITOR123",
+    "price": 350,
+    "stock": 10,
+    "category": "Tecnología",
+    "status": true,
+    "thumbnails": []
+  }
+]
