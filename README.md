@@ -77,8 +77,8 @@ Por defecto, el servidor se ejecuta en **http://localhost:8080**
 - Se valida que los IDs no se repitan.
 - Se sigue la arquitectura modular separando rutas y lógica del servidor.
 
-**📌 Autor:** _JONATAN URIBIO_  
-**📅 Fecha de entrega:** _28/01/25_
+**📌 Autor:** _MARISOL ALCARAZ_  
+**📅 Fecha de entrega:** _30/01/25_
 
 
 
